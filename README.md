@@ -1,13 +1,17 @@
 # DataDive Hackathon
 
-Kry factor to Follow
+Our workflow:
 
-1. Graphic for Poverty
-2. Relationship between other factors and poverty
-3. Graphic for highly related factors
-4. Combine graphics
-5. Geo data time series e.g. Gini over time
+Graphics for Global Poverty
+1. Correlations between poverty and key factors like electricity, infrastructure, water, and sanitation.
+2. Graphing the key factors globally
+3. Clustering by country
+Nation level inequality analysis
+1. Geo data time series e.g. Gini over time
+
 ## Datasets
+Besides using the `wbgapi` for referencing datasets, we collected CSVs of the relevant data to simplify analyses.
+Future efforts will involve using additional data: more granual regional metrics, more years for samples, and additional factors to consider like education.
 
 ### World Bank Global Income Inequality 1988-2002
 https://datacatalog.worldbank.org/search/dataset/0047368/Global-Income-Inequality-1988-2002
